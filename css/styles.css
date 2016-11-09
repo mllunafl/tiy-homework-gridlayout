@@ -1,0 +1,30 @@
+header {
+  background: #333333;
+}
+
+header .logo {
+  color: white;
+}
+
+header a {
+  color: white;
+}
+
+.container-fluid,.intro {
+  background: #00A89E;
+  color: white;
+  text-align: center;
+}
+
+.heading h3 {
+  color: #515151;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2vh;
+}
+
+.features {
+  text-align: center;
+}
+
+.img-heading
