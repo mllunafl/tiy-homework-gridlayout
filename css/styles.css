@@ -23,7 +23,7 @@ header a {
 }
 
 .header {
-  padding: 20px 0;
+  padding: 12px 0;
 }
 
 .container-fluid.intro {
@@ -52,7 +52,6 @@ header a {
   font-size: 2.8vh;
   font-weight: lighter;
   letter-spacing: 1px;
-  margin: 0 40px;
 }
 
 .cta {
@@ -86,6 +85,7 @@ header a {
   text-transform: uppercase;
   font-weight: bolder;
   font-size: 2.4vh;
+  margin-top: 50px;
 }
 
 .features {
@@ -122,6 +122,7 @@ header a {
   font-weight: bold;
   font-size: 4.5vh;
   text-align: right;
+  margin: 70px 0 50px;
 }
 
 .prefooter a {
@@ -133,7 +134,7 @@ header a {
 }
 
 .touch {
-  margin-top: 22px;
+  margin-top: 70px;
   text-align: left;
 }
 
@@ -142,12 +143,12 @@ footer .container-fluid{
   padding: 20px 0;
 }
 
-footer li {
-  display: inline-block;
-  margin-left: 150px;
+footer .row {
+  padding: 0 160px;
 }
 
 footer a {
+  font-size: 2.2vh;
   font-weight: bold;
   color: #828282;
   margin: 10px 20px;
